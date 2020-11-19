@@ -13,7 +13,11 @@ A missile fired in Alien Warfare:
 
 ![alt text](https://i.ibb.co/Sw9FK1F/alien-warfare.png)
 
-A player vs computer math in Ball Bounce/Pong:
+A snake slithering its way towards food:
+
+![alt text](https://i.ibb.co/Tb4LfJV/snake-game.png)
+
+A player vs computer match in Ball Bounce/Pong:
 
 ![alt text](https://i.ibb.co/8KmfDBj/ball-bounce.png)
 
